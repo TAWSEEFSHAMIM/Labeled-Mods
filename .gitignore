@@ -1,0 +1,24 @@
+# Virtual environment
+ent/
+venv/
+.ent/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.ent
+.venv
+ent.bak/
+venv.bak/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+.DS_Store
